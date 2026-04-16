@@ -1,12 +1,12 @@
 [
-  {
-    "id": "101",
-    "name": "Mounika",
-    "grade": "A"
-  },
-  {
-    "id": "102",
-    "name": "Ravi",
-    "grade": "B"
-  }
+    {
+        "student_id": "1001",
+        "name": "kohitha",
+        "grade": "A"
+    },
+    {
+        "student_id": "1002",
+        "name": "mounika",
+        "grade": "B"
+    }
 ]
